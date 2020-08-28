@@ -1,16 +1,16 @@
-### Hi there 👋
+# 전지원
 
-<!--
-**g1-tommy/g1-tommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 열심히 꿀 모아서 (일해서) 꿀 빠는 개발자가 되고 싶습니다.
 
-Here are some ideas to get you started:
+@Seoul
+- Faculty (Cyber Security, Ajou University, 2016 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See details about me in [resume](https://g1tommy.me/resume) page.
+
+- 🔗 Link
+  - Resume: [Portfolio](https://github.com/g1-tommy/resume)
+  - Linkedin: [Linkedin](https://www.linkedin.com/in/jiwon-jeon-835817125/)
+- 💬 Contact
+  - Mail: g1.jeon@kakao.com
+
+[![G1's github stats](https://github-readme-stats.vercel.app/api?username=g1-tommy)](https://github.com/anuraghazra/github-readme-stats)
