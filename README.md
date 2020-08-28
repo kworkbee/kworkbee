@@ -8,7 +8,7 @@
 See details about me in [resume](https://g1tommy.me/resume) page.
 
 - 🔗 Link
-  - Resume: [Portfolio](https://github.com/g1-tommy/resume)
+  - Resume: [Resume](https://github.com/g1-tommy/resume)
   - Linkedin: [Linkedin](https://www.linkedin.com/in/jiwon-jeon-835817125/)
 - 💬 Contact
   - Mail: g1.jeon@kakao.com
