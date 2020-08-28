@@ -1,6 +1,6 @@
 # 전지원
 
-> 열심히 꿀 모아서 (일해서) 꿀 빠는 개발자가 되고 싶습니다.
+> 열심히 꿀 모아서 (일해서) 꿀 빠는 **꿀벌** 개발자가 되고 싶습니다.
 
 @Seoul
 - Faculty (Cyber Security, Ajou University, 2016 ~ )
