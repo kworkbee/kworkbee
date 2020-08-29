@@ -1,10 +1,11 @@
-:bee:
-# 전지원
+# 전지원 (Tommy)
 
-> 열심히 꿀 모아서 (일해서) 꿀 빠는 **꿀벌** 개발자가 되고 싶습니다.
+> 열심히 꿀 모아서 (일해서) 꿀 빠는 **꿀벌** :bee: 개발자가 되고 싶습니다.
 
 @Seoul
 - Faculty (Cyber Security, Ajou University, 2016 ~ )
+
+![Burning](./burning.gif)
 
 See details about me in [resume](https://g1tommy.me/resume) page.
 
@@ -14,4 +15,4 @@ See details about me in [resume](https://g1tommy.me/resume) page.
 - 💬 Contact
   - Mail: g1.jeon@kakao.com
 
-[![G1's github stats](https://github-readme-stats.vercel.app/api?username=g1-tommy)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=g1-tommy)](https://github.com/anuraghazra/github-readme-stats)
