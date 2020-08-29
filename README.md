@@ -25,7 +25,8 @@ See details about me in [resume](https://g1tommy.me/resume) page.
 - 🔗  Link
   - [Resume](https://g1tommy.me/resume)
   - [LinkedIn](https://www.linkedin.com/in/jiwon-jeon-835817125/)
+  - [Rocketpunch](https://rocketpunch.com/@jiwonjeon)
 - 💬  Contact
-  - Mail: g1.jeon@kakao.com
+  - [Email](mailto:g1.jeon@kakao.com)
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=g1-tommy)](https://github.com/anuraghazra/github-readme-stats)
