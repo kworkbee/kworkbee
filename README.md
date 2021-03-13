@@ -2,7 +2,7 @@
 
 > 열심히 꿀 모아서 (일해서) 꿀 빠는 **꿀벌** :bee: 개발자가 되고 싶습니다.
 
-@Seoul (Segok)
+@Seoul (Wirye)
 
 - Faculty (Media (Social Science), Ajou University, 2016)
 - Faculty (Cyber Security, Ajou University, 2017 ~ )
