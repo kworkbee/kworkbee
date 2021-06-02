@@ -18,7 +18,7 @@
 - Special Soldier (Cyber Crime Investigation Assistance) (2017. 09 ~ 2019. 04)
 - Data Crawling and Refining (Pre-processing, Python) (2019. 05 ~ 2019. 08, 2020. 07 ~ 2020. 08)
 
-See details about me in [resume](https://g1tommy.me/resume) page.
+See details about me in [resume](https://g1-tommy.github.io/resume) page.
 
 ---
 
