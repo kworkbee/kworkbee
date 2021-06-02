@@ -4,8 +4,8 @@
 
 @Seoul (Wirye)
 
-- Faculty (Media (Social Science), Ajou University, 2016)
-- Faculty (Cyber Security, Ajou University, 2017 ~ )
+- BS (Media (Social Media), Ajou University, 2016)
+- BS (Cyber Security (Cloud / Big Data Track), Ajou University, 2017 ~ 2021. 08)
 
 ![Burning](https://github.com/g1-tommy/g1-tommy/blob/master/burning.gif?raw=true)
 
@@ -23,10 +23,10 @@ See details about me in [resume](https://g1-tommy.github.io/resume) page.
 ---
 
 - 🔗  Link
-  - [Resume](https://g1tommy.me/resume)
+  - [Resume](https://g1-tommy.github.io/resume)
   - [LinkedIn](https://www.linkedin.com/in/jiwon-jeon-835817125/)
   - [Rocketpunch](https://rocketpunch.com/@jiwonjeon)
 - 💬  Contact
-  - [Email](mailto:g1.jeon@kakao.com)
+  - [Email](mailto:g1.tommy.jeon@gmail.com)
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=g1-tommy)](https://github.com/anuraghazra/github-readme-stats)
