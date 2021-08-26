@@ -2,8 +2,6 @@
 
 > 일하는 :bee: 일벌 개발자
 
-@Seoul (Wirye)
-
 - BS (Media (Social Media), Ajou University, 2016)
 - BS (Cyber Security (Cloud / Big Data Track), Ajou University, 2017 ~ 2021. 08)
 
@@ -14,11 +12,18 @@
 ---
 ## Major Experiences
 
-- Web Development and Teaching Lead (2016. 03 ~ 2017. 08)
-- Special Soldier (Cyber Crime Investigation Assistance) (2017. 09 ~ 2019. 04)
-- Data Crawling and Refining (Pre-processing, Python) (2019. 05 ~ 2019. 08, 2020. 07 ~ 2020. 08)
+- Web Development and Teaching Lead
+  - (2016. 03 ~ 2017. 08)
+  - Based on `Ruby on Rails`
+- Special Soldier (Cyber Crime Investigation Assistance)
+  - (2017. 09 ~ 2019. 04)
+  - Developed business assistance web services
+  - `Ruby`, `Python`, `Node.js`, `Vue.js`, `Express.js`, `Elasticsearch`, `MongoDB`
+- Data Scraping, Pre-processing(Refining), Analyzing
+  - (2019. 05 ~ 2019. 08, 2020. 07 ~ 2020. 08)
+  - `Python` (`numpy`, `pandas`, `tensorflow`)
 
-See details about me in [resume](https://g1-tommy.github.io/resume) page.
+See details in [resume](https://g1-tommy.github.io/resume) page.
 
 ---
 
