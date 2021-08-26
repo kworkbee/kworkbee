@@ -3,7 +3,7 @@
 > 일하는 :bee: 일벌 개발자
 
 - BS (Media (Social Media), Ajou University, 2016)
-- BS (Cyber Security (Cloud / Big Data Track), Ajou University, 2017 ~ 2021. 08)
+- BS (Cyber Security (Cloud / Big Data Track), Ajou University, 2017 ~ 2022. 02 (Planned))
 
 ![Burning](https://github.com/g1-tommy/g1-tommy/blob/master/burning.gif?raw=true)
 
