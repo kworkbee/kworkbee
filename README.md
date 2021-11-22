@@ -5,7 +5,7 @@
 - BS (Media (Social Media), Ajou University, 2016)
 - BS (Cyber Security (Cloud / Big Data Track), Ajou University, 2017 ~ 2022. 02 (Planned))
 
-![Burning](https://github.com/g1-tommy/g1-tommy/blob/master/burning.gif?raw=true)
+![Burning](https://github.com/kworkbee/kworkbee/blob/master/burning.gif?raw=true)
 
 > ~~일해라 노예~~
 
@@ -29,15 +29,15 @@
   - (2019. 05 ~ 2019. 08, 2020. 07 ~ 2020. 08)
   - `Python` (`numpy`, `pandas`, `tensorflow`)
 
-See details in [resume](https://g1-tommy.github.io/resume) page.
+See details in [resume](https://kworkbee.github.io/resume) page.
 
 ---
 
 - 🔗  Link
-  - [Resume](https://g1-tommy.github.io/resume)
+  - [Resume](https://kworkbee.github.io/resume)
   - [LinkedIn](https://www.linkedin.com/in/jiwon-jeon-835817125/)
   - [Rocketpunch](https://rocketpunch.com/@jiwonjeon)
 - 💬  Contact
   - [Email](mailto:g1.tommy.jeon@gmail.com)
 
-[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=g1-tommy)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=kworkbee)](https://github.com/anuraghazra/github-readme-stats)
