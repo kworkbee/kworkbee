@@ -34,10 +34,10 @@ See details in [resume](https://kworkbee.github.io/resume) page.
 
 - 🔗  Link
   - [Resume](https://kworkbee.github.io/resume)
-  - [LinkedIn](https://www.linkedin.com/in/g1-tommy-jeon)
+  - [![linkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1-tommy-jeon)
 
 - 💬  Contact
-  - [Email](mailto:g1.tommy.jeon@gmail.com)
+  - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g1.tommy.jeon@gmail.com)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kworkbee)
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=kworkbee)](https://github.com/anuraghazra/github-readme-stats)
