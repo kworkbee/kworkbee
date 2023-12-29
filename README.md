@@ -2,7 +2,7 @@
 
 # 전지원 (Tommy) 
 
-[![Profile](https://img.shields.io/badge/-Profile-blue?style=for-the-badge)](http://about.g1tommy.me/resume) [![linkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1-tommy-jeon)
+[![Profile](https://img.shields.io/badge/-Profile-blue?style=for-the-badge)](http://about.g1tommy.me/profile) [![linkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1-tommy-jeon)
 
 🔥 Backend / DevOps Engineer - Aim for "Generalizing (T-shaped) Specialist" :bee:
 
