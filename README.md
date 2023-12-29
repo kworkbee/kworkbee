@@ -2,7 +2,7 @@
 
 # 전지원 (Tommy) 
 
-[![Profile (한국어)](https://img.shields.io/badge/-Profile-blue?style=for-the-badge)](http://about.g1tommy.me/profile)[![Profile (EN)](https://img.shields.io/badge/-Profile-blue?style=for-the-badge)](http://about.g1tommy.me/profile/lang/en.html)
+[![Profile (한국어)](https://img.shields.io/badge/-Profile%20(%ED%95%9C%EA%B5%AD%EC%96%B4)-blue?style=for-the-badge)](http://about.g1tommy.me/profile) [![Profile (EN)](https://img.shields.io/badge/-Profile%20(EN)-blue?style=for-the-badge)](http://about.g1tommy.me/profile/lang/en.html)
 
 [![linkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1-tommy-jeon)
 
