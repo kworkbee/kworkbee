@@ -2,7 +2,7 @@
 
 [![linkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g1-tommy-jeon)
 
-🔥 Backend / DevOps Engineer - Aim for "Generalizing (T-shaped) Specialist" :bee:
+🔥 A 3Y Junior SWE - Aim for a Versatilist Beyond a Generalist / Specialist :bee:
 
 ## Contact
 
